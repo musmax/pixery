@@ -1,0 +1,16 @@
+header {
+    background-color: blueviolet;
+    height: 50px;
+    width: 100%;
+}
+
+.overall {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    justify-content: center;
+}
+
+.searchInput {
+    /* padding: 10px; */
+}
