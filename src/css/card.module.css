@@ -29,3 +29,18 @@ img {
 .cardProps {
     padding: 10px;
 }
+
+/* Example of a media query for screens with a maximum width of 768px */
+@media (max-width: 500px) {
+    /* CSS rules for screens with a maximum width of 768px go here */
+    .cards {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 50px;
+        padding: 30px;
+        font-size: 12px;
+        align-items: center;
+    
+    }
+}
+  
