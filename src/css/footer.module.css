@@ -1,0 +1,7 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    background-color: aqua;
+    align-items: center;
+}
